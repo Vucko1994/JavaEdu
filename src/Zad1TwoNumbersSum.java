@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TwoNumbersSum {
+public class Zad1TwoNumbersSum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

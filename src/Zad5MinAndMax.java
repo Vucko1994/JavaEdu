@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MinAndMax {
+public class Zad5MinAndMax {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
